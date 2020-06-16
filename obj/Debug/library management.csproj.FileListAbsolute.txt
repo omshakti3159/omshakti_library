@@ -1,0 +1,23 @@
+C:\Users\HP-PC\source\repos\library management\library management\bin\Debug\library management.exe.config
+C:\Users\HP-PC\source\repos\library management\library management\bin\Debug\library management.exe
+C:\Users\HP-PC\source\repos\library management\library management\bin\Debug\library management.pdb
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library management.csprojAssemblyReference.cache
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library_management.Properties.Resources.resources
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library management.csproj.GenerateResource.cache
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library management.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library management.exe
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library management.pdb
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library_management.login.resources
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library_management.mdi_user.resources
+C:\Users\HP-PC\source\repos\library management\library management\bin\Debug\Database1.mdf
+C:\Users\HP-PC\source\repos\library management\library management\bin\Debug\Database1_log.ldf
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library_management.add_books.resources
+C:\Users\HP-PC\source\repos\library management\library management\bin\Debug\library management.exe.manifest
+C:\Users\HP-PC\source\repos\library management\library management\bin\Debug\library management.application
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library management.TrustInfo.xml
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library management.exe.manifest
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library management.application
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library_management.add_admin.resources
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library_management.add_student.resources
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library_management.AboutBox1.resources
+C:\Users\HP-PC\source\repos\library management\library management\obj\Debug\library_management.delete_admin.resources
